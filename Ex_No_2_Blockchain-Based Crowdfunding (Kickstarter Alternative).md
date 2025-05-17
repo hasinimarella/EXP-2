@@ -61,6 +61,11 @@ contract Crowdfunding {
 }
 ```
 # Expected Output:
+
+![Screenshot 2025-05-17 083048](https://github.com/user-attachments/assets/19951c69-6224-48ee-b0f2-bac47a75dae9)
+
+![image](https://github.com/user-attachments/assets/779ced9d-4dc7-453d-bf7e-da1423d246f5)
+
 Users can contribute ETH to the campaign.
 
 
@@ -77,3 +82,4 @@ Teaches decentralized fundraising.
 Avoids fraud by ensuring funds are only transferred if the goal is met.
 
 # RESULT: 
+Thus the exection of the crowdfunding has executed successfully.
